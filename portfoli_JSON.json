@@ -2,7 +2,7 @@
     {
         "id": "1",
         "title": "Beautiful-images",
-        "photo_url": "...",
+        "photo_url": "https://res.cloudinary.com/dwtduf9hx/image/upload/v1740729589/K%C3%A9perny%C5%91k%C3%A9p_2025-02-28_085931_byspdm.png",
         "repo_link": "https://github.com/boli2257/Beautiful-images",
         "topics": [
             "fetch API",
