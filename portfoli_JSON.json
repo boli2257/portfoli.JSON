@@ -1,55 +1,63 @@
 [
-	{
-      "id":"1",
-      "title":"Beautiful-images",
-      "photo_url":"...",
-      "repo_link":"https://github.com/boli2257/Beautiful-images",
-      "topics":["fetch API",
-                "Set adatszerkezet",
-                "Array.from()",
-                "radió gombok használata"],
-      "site_link":"beautifulimgs.netlify.app"
-	},
-
-	{
-      "id":"2",
-   "title":"Viragbolt",
-      "photo_url":"...",
-      "repo_link":"https://github.com/boli2257/viragbolt",
-      "topics":["fetch API",
-                "checkboxok használata",
-                "Reszponzív design"],
-      "site_link":"https://boli2257.github.io/viragbolt/"
-	},
     {
-        "id":"3",
-     "title":"Ingatlaniroda",
-        "photo_url":"...",
-        "repo_link":"https://github.com/boli2257/ingatlan_iroda",
-        "topics":["fetch API",
-                  "checkboxok használata",
-                  "Reszponzív design"],
-        "site_link":"https://boli2257.github.io/ingatlan_iroda/"
-      }
-      ,
+        "id": "1",
+        "title": "Beautiful-images",
+        "photo_url": "...",
+        "repo_link": "https://github.com/boli2257/Beautiful-images",
+        "topics": [
+            "fetch API",
+            "Set adatszerkezet",
+            "Array.from()",
+            "radió gombok használata"
+        ],
+        "site_link": "beautifulimgs.netlify.app"
+    },
     {
-        "id":"4",
-     "title":"Felhasznaloi_profil",
-        "photo_url":"...",
-        "repo_link":"https://github.com/boli2257/felhasznaloi_profil",
-        "topics":["fetch API",
-                  "checkboxok használata",
-                  "Javascript függvények"],
-        "site_link":"https://boli2257.github.io/felhasznaloi_profil/"
-      },
-      {
-          "id":"5",
-       "title":"Books",
-          "photo_url":"...",
-          "repo_link":"https://github.com/boli2257/Books",
-          "topics":["fetch API",
-                    "checkboxok használata",
-                    "Reszponzív design"],
-          "site_link":"https://boli2257.github.io/Books/"
-        }
+        "id": "2",
+        "title": "Viragbolt",
+        "photo_url": "...",
+        "repo_link": "https://github.com/boli2257/viragbolt",
+        "topics": [
+            "fetch API",
+            "checkboxok használata",
+            "Reszponzív design"
+        ],
+        "site_link": "https://boli2257.github.io/viragbolt/"
+    },
+    {
+        "id": "3",
+        "title": "Ingatlaniroda",
+        "photo_url": "...",
+        "repo_link": "https://github.com/boli2257/ingatlan_iroda",
+        "topics": [
+            "fetch API",
+            "checkboxok használata",
+            "Reszponzív design"
+        ],
+        "site_link": "https://boli2257.github.io/ingatlan_iroda/"
+    },
+    {
+        "id": "4",
+        "title": "Felhasznaloi_profil",
+        "photo_url": "...",
+        "repo_link": "https://github.com/boli2257/felhasznaloi_profil",
+        "topics": [
+            "fetch API",
+            "checkboxok használata",
+            "Javascript függvények"
+        ],
+        "site_link": "https://boli2257.github.io/felhasznaloi_profil/"
+    },
+    {
+        "id": "5",
+        "title": "Books",
+        "photo_url": "...",
+        "repo_link": "https://github.com/boli2257/Books",
+        "topics": [
+            "fetch API",
+            "checkboxok használata",
+            "Reszponzív design"
+        ],
+        "site_link": "https://boli2257.github.io/Books/"
+    }
 ]
