@@ -8,7 +8,9 @@
             "fetch API",
             "Set adatszerkezet",
             "Array.from()",
-            "radió gombok használata"
+            "radió gombok használata",
+            "checkboxok használata",
+            "select használata"
         ],
         "site_link": "beautifulimgs.netlify.app"
     },
@@ -20,7 +22,8 @@
         "topics": [
             "fetch API",
             "checkboxok használata",
-            "Reszponzív design"
+            "Reszponzív design",
+            "Javascript függvények"
         ],
         "site_link": "https://boli2257.github.io/viragbolt/"
     },
@@ -31,7 +34,7 @@
         "repo_link": "https://github.com/boli2257/ingatlan_iroda",
         "topics": [
             "fetch API",
-            "checkboxok használata",
+            "adatok programozott renderelése",
             "Reszponzív design"
         ],
         "site_link": "https://boli2257.github.io/ingatlan_iroda/"
@@ -42,9 +45,10 @@
         "photo_url": "https://res.cloudinary.com/dwtduf9hx/image/upload/v1740729324/K%C3%A9perny%C5%91k%C3%A9p_2025-02-28_085202_ks8rdr.png",
         "repo_link": "https://github.com/boli2257/felhasznaloi_profil",
         "topics": [
-            "fetch API",
-            "checkboxok használata",
-            "Javascript függvények"
+            "Reszponzív design",
+            "Flexbox vs grid elrendezés",
+            "Objektumok destrukturálása",
+            "Popover"
         ],
         "site_link": "https://boli2257.github.io/felhasznaloi_profil/"
     },
@@ -54,8 +58,9 @@
         "photo_url": "https://res.cloudinary.com/dwtduf9hx/image/upload/v1740729326/K%C3%A9perny%C5%91k%C3%A9p_2025-02-28_085235_e5wys5.png",
         "repo_link": "https://github.com/boli2257/Books",
         "topics": [
-            "fetch API",
-            "checkboxok használata",
+            "Javascript függvények",
+            "Tömbfüggvények",
+            "Modularitás, tiszta kód",
             "Reszponzív design"
         ],
         "site_link": "https://boli2257.github.io/Books/"
