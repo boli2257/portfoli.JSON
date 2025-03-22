@@ -15,7 +15,7 @@
     {
         "id": "2",
         "title": "Viragbolt",
-        "photo_url": "...",
+        "photo_url": "https://res.cloudinary.com/dwtduf9hx/image/upload/v1740729054/K%C3%A9perny%C5%91k%C3%A9p_2025-02-28_085031_ssc23j.png",
         "repo_link": "https://github.com/boli2257/viragbolt",
         "topics": [
             "fetch API",
@@ -27,7 +27,7 @@
     {
         "id": "3",
         "title": "Ingatlaniroda",
-        "photo_url": "...",
+        "photo_url": "https://res.cloudinary.com/dwtduf9hx/image/upload/v1740729335/K%C3%A9perny%C5%91k%C3%A9p_2025-02-28_085118_cyoi80.png",
         "repo_link": "https://github.com/boli2257/ingatlan_iroda",
         "topics": [
             "fetch API",
@@ -39,7 +39,7 @@
     {
         "id": "4",
         "title": "Felhasznaloi_profil",
-        "photo_url": "...",
+        "photo_url": "https://res.cloudinary.com/dwtduf9hx/image/upload/v1740729324/K%C3%A9perny%C5%91k%C3%A9p_2025-02-28_085202_ks8rdr.png",
         "repo_link": "https://github.com/boli2257/felhasznaloi_profil",
         "topics": [
             "fetch API",
@@ -51,7 +51,7 @@
     {
         "id": "5",
         "title": "Books",
-        "photo_url": "...",
+        "photo_url": "https://res.cloudinary.com/dwtduf9hx/image/upload/v1740729326/K%C3%A9perny%C5%91k%C3%A9p_2025-02-28_085235_e5wys5.png",
         "repo_link": "https://github.com/boli2257/Books",
         "topics": [
             "fetch API",
